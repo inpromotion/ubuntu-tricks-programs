@@ -15,6 +15,11 @@ sudo apt-get install p7zip-full p7zip-rar rar unrar unace arj cabextract
 
 # 2. Кодеки
 
-**Ubuntu Restricted Extras**	`sudo apt-get install ubuntu-restricted-extras`
-**Libavcodec Extra**	`sudo apt-get install libavcodec-extra`
-**Libdvd-pkg**	`sudo apt-get install libdvd-pkg`
+- **Ubuntu Restricted Extras**	`sudo apt-get install ubuntu-restricted-extras`
+- **Libavcodec Extra**	`sudo apt-get install libavcodec-extra`
+- **Libdvd-pkg**	`sudo apt-get install libdvd-pkg`
+
+Установка одной командой
+```
+sudo apt-get install ubuntu-restricted-extras libavcodec-extra libdvd-pkg
+```
