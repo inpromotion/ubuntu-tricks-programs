@@ -1,2 +1,2 @@
-# Ubuntu Kubuntu, Xubuntu, Lubuntu и т.д.
+# Ubuntu, Kubuntu, Xubuntu, Lubuntu и т.д.
 
