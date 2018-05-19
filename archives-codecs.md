@@ -6,7 +6,7 @@
 **unrar**	`sudo apt install unrar`
 **unace**	`sudo apt install unace`
 **arj**	`sudo apt install arj`
-**cabextract**	`sudo apt install cabextract`
+*cabextract**	`sudo apt install cabextract`
 
 Установка одной командой
 ```
