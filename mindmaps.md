@@ -6,7 +6,9 @@ XMind — это открытое программное обеспечение 
 
 Установка:
 ```
-wget https://www.xmind.net/xmind/downloads/xmind-8-update7-linux.zip
+wget https://www.xmind.net/xmind/downloads/xmind-8-update7-linux.zip (может выдавать 403 ошибку)
 git clone https://github.com/mriza/XMind-Linux-Installer.git
-cd 
+cd /home/seompson/Загрузки/
+unzip xmind-8*.zip -d /home/seompson/Xmind-Linux-Installer
+
 ```
