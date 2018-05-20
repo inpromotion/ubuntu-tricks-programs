@@ -3,9 +3,17 @@
 ## 1.1. ClamAV
 
 Данный антивирус работает из терминала и не имеет своей графической оболочки. 
-Для установки используем следующую команду `sudo apt-get install clamav clamav-daemon`
+
+Установка:
+```
+sudo apt-get install clamav clamav-daemon
+```
 
 ## 1.2. ClamTK
 
 Графическая оболочка для ClamAV. 
-Для установки используем следующую команду `sudo apt-get install clamtk`
+
+Установка:
+```
+sudo apt-get install clamtk
+```
