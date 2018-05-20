@@ -1,0 +1,26 @@
+# СКРИНШОТЫ И СКРИНКАСТЫ (ЗАХВАТ ФОТО, АУДИО, ВИДЕО)
+
+## 1.1. Kazam
+
+
+## 1.2. Shutter
+
+
+## 1.3. OBS Studio
+
+
+## 1.4. OBS Linux Browser Plugin
+
+
+## 1.5. SimpleScreenRecorder
+
+
+## 1.6. Joxi (установка вызывает удаление OBS Studio и наоборот)
+
+Joxi - бесплатная программа для создания скриншотов
+
+Установка:
+```
+wget http://dl.joxi.ru/linux/joxi-amd64.deb
+sudo dpkg -i joxi*.deb
+```
