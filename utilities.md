@@ -228,6 +228,10 @@ wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
 ## 1.24. Bleachbit
 
+Установка:
+```
+wget https://www.bleachbit.org/download/file/t?file=bleachbit_2.0_all_ubuntu1710.deb
+```
 
 ## 1.25. Transmission
 
