@@ -11,22 +11,21 @@ unzip xmind-8*.zip -d xmind
 sudo mv xmind /opt/
 sudo chmod a+w /opt/xmind/XMind_amd64/configuration
 sudo gedit /opt/xmind/XMind_amd64/configuration 
-- в строке 2 меняем ./configuration/ на /opt/xmind/XMind_amd64/configuration
-- в строке 4 меняем ../workspace на /home/seompson/workspace
-- в строках 6 и 8 оставляем все как есть, т.е. ../plugins
+# в строке 2 меняем ./configuration/ на /opt/xmind/XMind_amd64/configuration
+# в строке 4 меняем ../workspace на /home/seompson/workspace
+# в строках 6 и 8 оставляем все как есть, т.е. ../plugins
 sudo mkdir -p /usr/share/fonts/truetype/xmind/
 sudo cp -R /opt/xmind/fonts/* /usr/share/fonts/truetype/xmind/
 sudo fc-cache-f
 sudo gedit /usr/share/applications/xmind.desktop
-
-[Desktop Enrty]
-Comment=Create and share mind maps.
-Exec=/opt/xmind/XMind_amd64/Xmind %F
-Name=XMind
-Treminal=false
-Type=Application
-Categories=Office;
-Icon=xmind
+# [Desktop Enrty]
+# Comment=Create and share mind maps.
+# Exec=/opt/xmind/XMind_amd64/Xmind %F
+# Name=XMind
+# Treminal=false
+# Type=Application
+# Categories=Office;
+# Icon=xmind
 ```
 
 Установка скриптом (не всегда может распознать архитектуру):
