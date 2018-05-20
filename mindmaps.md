@@ -4,7 +4,7 @@
 
 XMind — это открытое программное обеспечение для проведения мозговых штурмов и составления интеллект-карт, разрабатываемое компанией XMind Ltd.
 
-Установка:
+Установка вручную:
 ```
 wget https://www.xmind.net/xmind/downloads/xmind-8-update7-linux.zip (может выдавать 403 ошибку)
 git clone https://github.com/mriza/XMind-Linux-Installer.git
@@ -15,5 +15,10 @@ sudo chmod a+w /home/seompson/Xmind-Linux-Installer/xmind-installer.sh
 
 ```
 
-sudo apt-get install unzip install default-jre libgtk2.0-0 libwebkitgtk-1.0-0 lame libc6 libglib2.0-0
+Установка скриптом (не всегда может распознать архитектуру):
+```
+wget https://www.xmind.net/xmind/downloads/xmind-8-update7-linux.zip (может выдавать 403 ошибку)
+sudo apt-get install unzip default-jre libgtk2.0-0 libwebkitgtk-1.0-0 lame libc6 libglib2.0-0
 curl -O https://raw.githubusercontent.com/mriza/XMind-Linux-Installer/master/xmind-installer.sh
+sudo sh xmind-installer.sh seompson (или sudo xmind-installer.sh)
+```
