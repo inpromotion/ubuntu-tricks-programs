@@ -7,6 +7,7 @@ XMind — это открытое программное обеспечение 
 Установка вручную:
 ```
 wget https://www.xmind.net/xmind/downloads/xmind-8-update7-linux.zip (может выдавать 403 ошибку)
+sudo apt-get install unzip default-jre libgtk2.0-0 libwebkitgtk-1.0-0 lame libc6 libglib2.0-0
 unzip xmind-8*.zip -d xmind
 sudo mv xmind /opt/
 sudo chmod a+w /opt/xmind/XMind_amd64/configuration
