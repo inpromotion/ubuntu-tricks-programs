@@ -216,3 +216,48 @@ Gparted - hедактор дисковых разделов, являющийс�
 ```
 sudo apt-get install gparted
 ```
+
+## 1.23. TeamViewer
+
+TeamViewer - пакет программного обеспечения для удалённого контроля компьютеров совместного использования, обмена файлами между управляющей и управляемой машинами, видеосвязи и веб-конференций.
+
+Установка:
+```
+wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+```
+
+## 1.24. Bleachbit
+
+
+## 1.25. Transmission
+
+Установка:
+```
+sudo add-apt-repository ppa:transmissionbt/ppa
+sudo apt-get update 
+sudo apt-get install transmission-gtk
+```
+
+
+## 1.26. kTorrent
+
+Установка:
+```
+sudo apt-get install ktorrent
+```
+
+## 1.27. qTorrent
+
+Установка:
+```
+sudo apt-get install qbittorrent
+```
+
+## 1.28. KeePass2
+
+Установка:
+```
+sudo apt-add-repository ppa:jtaylor/keepass
+sudo apt-get update
+sudo apt-get install keepass2
+```
