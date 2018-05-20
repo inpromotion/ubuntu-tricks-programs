@@ -151,3 +151,39 @@ sudo apt-get install adobe-flashplugin
 ```
 sudo apt install browser-plugin-freshplayer-pepperflash
 ```
+
+## 1.16. Java (JDK).
+
+Java Development Kit (JDK) - бесплатно распространяемый компанией Oracle Corporation комплект разработчика приложений на языке Java, включающий в себя компилятор Java, стандартные библиотеки классов Java, примеры, документацию, различные утилиты и исполнительную систему Java.
+
+Установка:
+```
+sudo apt-get install default-jdk
+````
+
+## 1.17. Java (JRE)
+
+Java Runtime Environment (JRE) - Это всё, что вам нужно для запуска Java-приложений на своей системе.
+
+Установка:
+```
+sudo apt-get install default-jre
+```
+
+## 1.18. Java (Icedtea plugin)	
+
+Java Icetea plugin - плагин для поддержки в браузерах Java.
+
+Установка:
+```
+sudo apt-get install icedtea-plugin
+```
+
+## 1.19. Python3
+
+Python - это один из самых популярных языков программирования для Linux. На нем написано множество различных инструментов и библиотек.
+
+Установка:
+```
+sudo apr-get install python3
+```
