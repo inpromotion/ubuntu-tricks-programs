@@ -2,10 +2,9 @@
 
 ## 1. Mozilla Thunderbird
 
+Thunderbird — это бесплатная почтовая программа, лёгкая в установке и настройке — и имеющая множество великолепных возможностей!
+
 Установка:
 ```
-wget https://download.mozilla.org/?product=thunderbird-52.8.0-SSL&os=linux64&lang=ru
-tar xvjf thunderbird*.tar.bz2
-mkdir /home/seompson/.apps
-mv thunderbird /home/seopson/.apps
+sudo apt-get install thunderbird thunderbird-locale-ru
 ```
