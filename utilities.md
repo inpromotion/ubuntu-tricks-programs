@@ -20,3 +20,13 @@ Htop - это продвинутый монитор процессов в сис
 sudo apt-get install htop
 sudo htop
 ```
+
+## 1.3. ScreenFetch
+
+ScreenFetch - простая терминальная утилита для вывода информации о системе, драйвере и ОЗУ в Linux.
+
+Установка и запуск:
+```
+sudo apt-get install screenfetch
+sudo screenfetch
+```
