@@ -198,3 +198,21 @@ sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update
 sudo apt install oracle-java8-installer
 ```
+
+## 1.21. Gdebi
+
+Gdebi — это простой инструмент для установки файлов Debian, что позволяет устанавливать локальные пакеты .deb и устранять зависимости.
+
+Установка:
+```
+sudo apt-get install gdebi
+```
+
+## 1.22. GParted
+
+Gparted - hедактор дисковых разделов, являющийся графической оболочкой к GNU Parted. 
+
+Установка:
+```
+sudo apt-get install gparted
+```
