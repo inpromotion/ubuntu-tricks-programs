@@ -15,18 +15,25 @@ sudo apt install flatpak
 
 Htop - это продвинутый монитор процессов в системе Linux. Его используют тогда, когда информации, которая выводится при помощи стандартной утилиты top, недостаточно.
 
-Установка и запуск:
+Установка:
 ```
 sudo apt-get install htop
-sudo htop
 ```
 
 ## 1.3. ScreenFetch
 
 ScreenFetch - простая терминальная утилита для вывода информации о системе, драйвере и ОЗУ в Linux.
 
-Установка и запуск:
+Установка:
 ```
 sudo apt-get install screenfetch
-sudo screenfetch
+```
+
+## 1.4. Wget
+
+Wget - это программа для "вытягивания" файлов из Internet при помощи протоколов HTTP или FTP.
+
+Установка: 
+```
+sudo apt-get install wget
 ```
