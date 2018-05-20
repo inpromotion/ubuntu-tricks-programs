@@ -224,6 +224,7 @@ TeamViewer - пакет программного обеспечения для �
 Установка:
 ```
 wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+sudo dpkg -i teamviewer*_amd64.deb
 ```
 
 ## 1.24. Bleachbit
@@ -231,6 +232,7 @@ wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 Установка:
 ```
 wget https://www.bleachbit.org/download/file/t?file=bleachbit_2.0_all_ubuntu1710.deb
+sudo dpkg -i bleachbit*.deb
 ```
 
 ## 1.25. Transmission
