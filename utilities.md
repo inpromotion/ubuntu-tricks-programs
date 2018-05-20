@@ -127,3 +127,13 @@ sudo apt-get install qt5-default
 ```
 sudo apt-get install qtcreator
 ```
+
+## 1.14. Wipe
+
+Wipe - утилита для безопасного полного стирания информации.
+
+Установка:
+```
+sudo apt-get install wipe
+```
+
