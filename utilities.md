@@ -267,3 +267,13 @@ sudo apt-add-repository ppa:jtaylor/keepass
 sudo apt-get update
 sudo apt-get install keepass2
 ```
+
+## 1.29. Python-GTK2
+
+Python-ПЕЛ2 - набор Python-привязок для библиотеки графического интерфейса GTK+, является свободным ПО и распространяется на условиях GNU LGPL.
+
+Установка:
+```
+sudo apt-get install python-gtk2
+sudo apt-get --fix-broken install
+```
